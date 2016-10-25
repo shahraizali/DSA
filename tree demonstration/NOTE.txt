@@ -1,0 +1,6 @@
+NOTE: You should have java installed on system
+1. Connect To internet
+2. Open demonstration.jnlp(it will download the demonstration)
+3. Thats all
+
+This contain all teh search algos depth first , breadth first, hill climbing, beam, best first andd all the optimal searches.i.e branch and bound, A* etc.

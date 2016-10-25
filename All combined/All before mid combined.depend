@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1465172692 source:c:\users\shahraiz\onedrive\c++\all before mid combined\main.cpp
+	<iostream>
+	<Windows.h>
+	<process.h>
+	<sstream>
+	<conio.h>
+
